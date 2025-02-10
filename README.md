@@ -1,4 +1,4 @@
-# Tor File Downloader
+# Onion URLs File Downloader
 
 This script downloads files through the Tor network using `requests_tor`. It takes a URL as an argument and optionally allows specifying an output filename. If no filename is provided, it saves the file to the `tordownloads/` directory.
 
